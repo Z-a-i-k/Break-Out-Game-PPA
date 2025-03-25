@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Block
+comment1.params=x\ y\ width\ height
+comment1.target=Block(double,\ double,\ double,\ double)
+comment2.params=
+comment2.target=int\ hit()
+comment3.params=
+comment3.target=boolean\ isDestroyed()
+comment4.params=gc
+comment4.target=void\ draw(javafx.scene.canvas.GraphicsContext)
+numComments=5
