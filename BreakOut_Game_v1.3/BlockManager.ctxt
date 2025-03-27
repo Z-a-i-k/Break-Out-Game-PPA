@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=BlockManager
+comment0.text=\r\n\ Block\ Manager\ is\ a\ class\ that\ creates\ and\ manages\ the\ rows\ of\ blocks,\ their\ max\ width,\ number\ of\ rows\ -\ their\ width\ height.\r\n\ Responsible\ for\ creting\ different\ difficulty\ levels\ in\ terms\ of\ blocks\ and\ what\ modifying\ blocks\ reinforcement\ making\ them\ harder\ to\ break\r\n
+comment1.params=
+comment1.target=BlockManager()
+comment2.params=canvasWidth\ canvasHeight\ startY\ numRows\ rowHeight\ level
+comment2.target=void\ generateBlocks(double,\ double,\ double,\ int,\ double,\ int)
+comment3.params=x\ y\ width\ height\ level
+comment3.target=Block\ createBlock(double,\ double,\ double,\ double,\ int)
+comment4.params=gc
+comment4.target=void\ drawBlocks(javafx.scene.canvas.GraphicsContext)
+comment5.params=
+comment5.target=java.util.List\ getBlocks()
+numComments=6

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ReinforcedBreakingBlock
+comment0.text=\r\n\ Simple\ implmentation\ of\ a\ breaking\ block,\ contains\ code\ for\ advancing\ difficulty\ of\ blocks\r\n\ Every\ tier\ block\ become\ harder\ to\ break,\ but\ they\ score\ more\ points.\r\n\ Block's\ colour\ suggests\ it's\ diffuculty\r\n
+comment1.params=x\ y\ width\ height\ tier
+comment1.target=ReinforcedBreakingBlock(double,\ double,\ double,\ double,\ int)
+comment2.params=tier
+comment2.target=javafx.scene.paint.Color[]\ getColorsForTier(int)
+comment3.params=gc
+comment3.target=void\ draw(javafx.scene.canvas.GraphicsContext)
+numComments=4

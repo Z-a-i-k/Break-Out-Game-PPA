@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=StandardBreakingBlock
+comment0.text=\r\n\ The\ most\ simple\ and\ easy-to-break\ Block\r\n\ \r\n
+comment1.params=x\ y\ width\ height
+comment1.target=StandardBreakingBlock(double,\ double,\ double,\ double)
+comment2.params=gc
+comment2.target=void\ draw(javafx.scene.canvas.GraphicsContext)
+numComments=3

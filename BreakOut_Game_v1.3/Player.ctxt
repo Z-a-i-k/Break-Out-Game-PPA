@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=x\ y\ width\ height\ speed\ canvasWidth\ canvasHeight
+comment1.target=Player(double,\ double,\ double,\ double,\ double,\ double,\ double)
+comment10.params=canvasHeight
+comment10.target=double\ getAbsY(double)
+comment11.params=canvasWidth
+comment11.target=double\ getAbsWidth(double)
+comment12.params=canvasHeight
+comment12.target=double\ getAbsHeight(double)
+comment2.params=
+comment2.target=void\ reduceLife()
+comment3.params=canvasWidth
+comment3.target=void\ clampPosition(double)
+comment4.params=gc\ canvasWidth\ canvasHeight
+comment4.target=void\ draw(javafx.scene.canvas.GraphicsContext,\ double,\ double)
+comment5.params=
+comment5.target=void\ resetLives()
+comment6.params=canvasWidth
+comment6.target=void\ moveLeft(double)
+comment7.params=canvasWidth
+comment7.target=void\ moveRight(double)
+comment8.params=
+comment8.target=int\ getLife()
+comment9.params=canvasWidth
+comment9.target=double\ getAbsX(double)
+numComments=13

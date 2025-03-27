@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=GameMenu
+comment0.text=\r\n\ A\ simple\ implementation\ of\ the\ Menu\ bar\ at\ the\ top\ of\ the\ gaming\ window.\ \r\n\ Resets\ highest\ score,\ quits\ the\ game\ and\ contains\ the\ "About"\ section\r\n
+comment1.params=
+comment1.target=GameMenu()
+comment2.params=
+comment2.target=javafx.scene.control.MenuBar\ getMenuBar()
+comment3.params=event
+comment3.target=void\ handleQuit(javafx.event.ActionEvent)
+comment4.params=event
+comment4.target=void\ handleAbout(javafx.event.ActionEvent)
+comment5.params=event
+comment5.target=void\ handleReset(javafx.event.ActionEvent)
+numComments=6
